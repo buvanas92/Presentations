@@ -41,13 +41,13 @@ The scope of this project is to run the learning models on two datasets using tw
 -Design, train and test the model architecture
 
 
--Deploy machine learning techniques (stated as above)
+-Deploy machine learning techniques of Logistic Regression, SVM, KNN, Random Forest and Ada Boost
 
 
--Build Artificial Neural Network
+-Build Artificial Neural Network of 15 nodes and 1 hidden layer
 
 
--Perform hyper parameter tuning
+-Perform hyper parameter tuning uusing GridSearchCV
 
 
 -Summarize results and identify the best model to achieve desirable data and busness outcomes for Medical institutes and relevant stakeholders
